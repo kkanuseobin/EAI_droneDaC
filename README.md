@@ -2,7 +2,8 @@
 딥러닝 기반 불법촬영목적 드론 실시간 감지 시스템 (Real-time detection system for illegal filming purpose drones based on deep learning)
 
 -------------------------------------
-2022-08-21 최초 Update
+###2022-08-21 최초 Update
+
 -------------------------------------
 ### ▶Introduction
 > [1] YOLOv5 model을 이용해 실시간 드론 검출
